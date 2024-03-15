@@ -1,0 +1,1 @@
+// write a program to display the population of the next five years.assume the current popolation is 312,o23,486 and one year has 365 days//
